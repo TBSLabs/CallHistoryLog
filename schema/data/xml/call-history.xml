@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+   <calls>
+      <call>
+         <contact_name>Annonymous</contact_name>
+         <country_code>+91</country_code>
+         <duration>00-00-00</duration>
+         <from>+91-7204414838</from>
+         <time_stamp>2014-09-27T18:30:49-0300</time_stamp>
+         <type>M</type>
+      </call>
+      <call>
+         <contact_name>Annonymous</contact_name>
+         <country_code>+91</country_code>
+         <duration>00-00-00</duration>
+         <from>+91-7204414838</from>
+         <time_stamp>2014-09-27T18:30:49-0300</time_stamp>
+         <type>D</type>
+      </call>
+      <call>
+         <contact_name>Annonymous</contact_name>
+         <country_code>+91</country_code>
+         <duration>00-00-00</duration>
+         <from>+91-7204414838</from>
+         <time_stamp>2014-09-27T18:30:49-0300</time_stamp>
+         <type>R</type>
+      </call>
+   </calls>
+   <first_name>Sitakant</first_name>
+   <last_name>Chaudhury</last_name>
+   <mobile_no>+917204414838</mobile_no>
+</details>
